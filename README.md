@@ -1,1 +1,0 @@
-# ARstamp-rally
