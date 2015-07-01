@@ -15,7 +15,7 @@
  * 					- start an animation based on animation ended event of the object 
  **/
 
-require_once '../ARELLibrary/arel_xmlhelper.class.php';
+require_once './ARELLibrary/arel_xmlhelper.class.php';
  
 /**
  * When the channel is being viewed, a poi request will be sent
